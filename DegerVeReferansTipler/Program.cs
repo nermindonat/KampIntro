@@ -23,6 +23,7 @@ namespace DegerVeReferansTipler
 
 
 
+
             // int,float,decimal,double,bool=değer tip
             //array,class,interface=referans tip
         }
